@@ -6,7 +6,7 @@ All Routes
 
 2- http://127.0.0.1:8000/api/products/3
 
-3- http://127.0.0.1:8000/api/products/search/lap
+3- http://127.0.0.1:8000/api/products/search/Laptop
 
 // Post Request
 
